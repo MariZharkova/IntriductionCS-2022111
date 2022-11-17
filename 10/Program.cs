@@ -5,6 +5,4 @@ int N=Convert.ToInt32(Console.ReadLine());
 int last;
 
 last = N % 10;
-{
-   Console.Write($"{last} ");
-}
+Console.Write($"{last} ");
